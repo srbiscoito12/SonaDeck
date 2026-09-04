@@ -1,8 +1,8 @@
 # SonaDeck
 
-![Tela principal do SonaDeck 2.0.1](preview-main.png)
+![Tela principal do SonaDeck 2.1.0](preview-main.png)
 
-![Central tática do SonaDeck 2.0.1](preview-hub.png)
+![Central tática do SonaDeck 2.1.0](preview-hub.png)
 
 Soundboard leve e central tática para Windows, com reprodução de memes, atalhos globais, rota para Discord e atualizações automáticas.
 
@@ -13,8 +13,11 @@ Soundboard leve e central tática para Windows, com reprodução de memes, atalh
 ## Central tática
 
 - **Miras:** salve e copie códigos de perfil.
+- **Imagem da mira:** clique em **IMG** para escolher ou trocar uma foto PNG, JPG, JPEG ou BMP.
 - **Jogar:** detecte e abra o cliente oficial do VALORANT.
 - O soundboard e a saída para o Discord continuam disponíveis na janela principal.
+
+As imagens personalizadas ficam guardadas no perfil local do Windows e permanecem após atualizações.
 
 ## Atualizações
 
