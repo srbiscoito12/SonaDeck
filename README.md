@@ -1,23 +1,24 @@
 # SonaDeck
 
-![Tela principal do SonaDeck 2.1.0](preview-main.png)
+![Página inicial do SonaDeck 3.0](preview-home.png)
 
-![Central tática do SonaDeck 2.1.0](preview-hub.png)
+![Soundboard do SonaDeck 3.0](preview-soundboard.png)
 
-Soundboard leve e central tática para Windows, com reprodução de memes, atalhos globais, rota para Discord e atualizações automáticas.
+![Central VALORANT do SonaDeck 3.0](preview-hub.png)
+
+Central de ferramentas para Windows. O SonaDeck reúne soundboard, recursos para jogos e espaço para novas ferramentas em um único aplicativo.
 
 ## Baixar
 
 [Baixar a versão mais recente](https://github.com/srbiscoito12/SonaDeck/releases/latest/download/SonaDeck.exe)
 
-## Central tática
+## Ferramentas
 
-- **Miras:** salve e copie códigos de perfil.
-- **Imagem da mira:** clique em **IMG** para escolher ou trocar uma foto PNG, JPG, JPEG ou BMP.
-- **Jogar:** detecte e abra o cliente oficial do VALORANT.
-- O soundboard e a saída para o Discord continuam disponíveis na janela principal.
+- **Início:** atalhos para todos os recursos, contadores e atualização do aplicativo.
+- **Soundboard:** importe memes, use atalhos globais e envie sons para o Discord.
+- **Central VALORANT:** salve miras, escolha imagens personalizadas e abra o cliente oficial do jogo.
 
-As imagens personalizadas ficam guardadas no perfil local do Windows e permanecem após atualizações.
+A estrutura está preparada para receber novas ferramentas nas próximas versões.
 
 ## Atualizações
 
