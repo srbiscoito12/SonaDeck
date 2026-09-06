@@ -1,10 +1,10 @@
 # SonaDeck
 
-![Página inicial do SonaDeck 3.0](preview-home.png)
+![Página inicial do SonaDeck 3.0.1](preview-home.png)
 
-![Soundboard do SonaDeck 3.0](preview-soundboard.png)
+![Soundboard do SonaDeck 3.0.1](preview-soundboard.png)
 
-![Central VALORANT do SonaDeck 3.0](preview-hub.png)
+![Central VALORANT integrada no SonaDeck 3.0.1](preview-hub.png)
 
 Central de ferramentas para Windows. O SonaDeck reúne soundboard, recursos para jogos e espaço para novas ferramentas em um único aplicativo.
 
@@ -16,9 +16,9 @@ Central de ferramentas para Windows. O SonaDeck reúne soundboard, recursos para
 
 - **Início:** atalhos para todos os recursos, contadores e atualização do aplicativo.
 - **Soundboard:** importe memes, use atalhos globais e envie sons para o Discord.
-- **Central VALORANT:** salve miras, escolha imagens personalizadas e abra o cliente oficial do jogo.
+- **Central VALORANT:** abre dentro da janela principal, onde você pode salvar miras, escolher imagens personalizadas e iniciar o cliente oficial do jogo.
 
-A estrutura está preparada para receber novas ferramentas nas próximas versões.
+As três páginas utilizam a mesma barra de navegação. A estrutura está preparada para receber novas ferramentas.
 
 ## Atualizações
 
